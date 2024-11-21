@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Python<br>👯 I’m looking to connect with people involves with Data!!<br>🤝 A Licensed Psychometrician BTW!<br>🌱 I’m currently learning Python<br>⚡ Fun fact: I Like to Read Novels
+🔭 Taking Masters<br>👯 I’m looking to connect with people involves with Data!!<br>🤝 A Licensed Psychometrician BTW!<br>🌱 I’m currently learning Python<br>⚡ Fun fact: I Like to Read Novels
 
 
 # 💻 Tech Stack:
